@@ -2,12 +2,28 @@
 
 you can learn about sass.
 
-##Setup
+## Run Locally
 
----dash
-  yarn
----
+Clone the project
 
----dash
+```bash
+  git clone https://github.com/BigBen3918/sass-tutorial.git
+```
+
+Go to the project directory
+
+```bash
+  cd sass-tutorial
+```
+
+Install dependencies
+
+```bash
+  yarn install
+```
+
+Start the frontend
+
+```bash
   yarn start
----
+```
